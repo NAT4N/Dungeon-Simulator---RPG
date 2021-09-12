@@ -27,3 +27,19 @@ Pedro Henrique Silva Torres Souza - 21579020 <br>
 :heavy_check_mark: Ao chegar na sala 6, tem somente uma opção.
 <br>
 :heavy_check_mark: Ao entrar no portal, o jogador é teletransportado para uma sala aleatoria entre 1 a 5.
+
+<h1 align="center"> Como usar </h1>
+
+<p> :pencil:  Ao entrar na Dungeon os aventureiros da guilda de heróis se encontrarão em um labirinto:
+
+<h1 align="center">
+<img src = "https://i.imgur.com/eZVxas9.png" alt="Win11Check" width="600">
+<br>
+</h1>
+
+<p> :wrench: Para seguir por um caminho será necessário escolher entre os números 1 e 2, que representarão os caminhos vermelho e esquerdo, respectivamente.
+
+<h1 align="center"> Desafios </h1>
+
+<p> :milky_way: Ao chegar na sala número 8, os aventureiros serão levados para um local desconhecido por caírem em um portal, sendo assim seus destinos serão sorteados, podendo ser qualquer sala entre 1, 2, 3, 4 e 5. 
+<p> :skull: Os aventureiros terão um total de 7 escolhas para conseguirem chegar na sala número 9 e saírem do labirinto vitoriosos.

@@ -43,3 +43,14 @@ Pedro Henrique Silva Torres Souza - 21579020 <br>
 
 <p> :milky_way: Ao chegar na sala número 8, os aventureiros serão levados para um local desconhecido por caírem em um portal, sendo assim seus destinos serão sorteados, podendo ser qualquer sala entre 1, 2, 3, 4 e 5. 
 <p> :skull: Os aventureiros terão um total de 7 escolhas para conseguirem chegar na sala número 9 e saírem do labirinto vitoriosos.
+
+<h1 align="center"> Estrutura utilizada </h1>
+
+Funções:<br>
+While - Função de repetição<br>
+Try e except - Função de exceções<br>
+If, elif e else - Função de condição<br>
+Break - Função de Finalização do loop<br>
+
+Bibliotecas:<br>
+Random - Biblioteca gera um número aleatório.<br>
